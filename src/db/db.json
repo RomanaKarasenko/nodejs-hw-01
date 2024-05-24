@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "name": "Brian Tillman",
+    "phone": "787-491-3364",
+    "email": "Johnny94@gmail.com",
+    "job": "Legacy Marketing Executive"
+  },
+  {
+    "name": "Gerardo O'Hara",
+    "phone": "222.866.1908 x4560",
+    "email": "Matteo.Osinski75@hotmail.com",
+    "job": "Legacy Security Agent"
+  },
+  {
+    "name": "Shelley Reichert",
+    "phone": "1-392-389-6665 x273",
+    "email": "Tito.Wintheiser@hotmail.com",
+    "job": "Central Communications Liaison"
+  },
+  {
+    "name": "Marjorie Zulauf",
+    "phone": "(534) 818-3422 x8133",
+    "email": "Antonina48@gmail.com",
+    "job": "Chief Program Analyst"
+  },
+  {
+    "name": "Dustin Williamson MD",
+    "phone": "1-567-892-8927 x231",
+    "email": "Rae73@gmail.com",
+    "job": "Central Quality Facilitator"
+  },
+  {
+    "name": "Jaime Kuhlman",
+    "phone": "555.926.1592 x275",
+    "email": "Bertrand_Kreiger@yahoo.com",
+    "job": "Chief Interactions Representative"
+  },
+  {
+    "name": "Marianne Koepp",
+    "phone": "487-351-1325 x3208",
+    "email": "Evert_Kunze@gmail.com",
+    "job": "Lead Factors Assistant"
+  },
+  {
+    "name": "Alonzo Reynolds V",
+    "phone": "418.629.3779",
+    "email": "Reece45@hotmail.com",
+    "job": "Forward Division Engineer"
+  },
+  {
+    "name": "Randolph Carroll",
+    "phone": "(605) 903-6957 x431",
+    "email": "Buster_Dooley67@yahoo.com",
+    "job": "Legacy Quality Orchestrator"
+  },
+  {
+    "name": "Emanuel Ziemann",
+    "phone": "(583) 890-0006",
+    "email": "Abel_Stoltenberg-Lind96@yahoo.com",
+    "job": "International Security Director"
+  },
+  {
+    "name": "Willie Kuhn",
+    "phone": "1-441-423-3646 x052",
+    "email": "William89@yahoo.com",
+    "job": "Future Group Manager"
+  }
+]
